@@ -1,61 +1,49 @@
-# Template de Projeto
+# Informações do Projeto
+`TÍTULO DO PROJETO`  
 
-Este é um repositório _template_ que tem como principal objetivo
-fornecer uma estrutura inicial para projetos da disciplina _Trabalho
-Interdisciplina - Aplicações Web_ da PUC Minas.
+Trabalho Interdisciplinar - Aplicacões Web
 
-Aqui você encontrará orientações de como estruturar o projeto e
-desenvolver seus respectivos artefatos.
+`CURSO`
 
-# Estrutura de Diretórios
+`SEMESTRE`
 
-Este _template_ adota a seguinte estrutura de diretórios:
+## Participantes
 
-- `docs`
-  - `images`
-- `src`
-  - `assets`
-  - `scripts`
-  - `styles`
-  - `vendor`
+Os membros do grupo são: 
+- Fulano da Silva
+- Ciclano Albuquerque
 
-> O grupo é livre para alterar a estrutura proposta. No entanto, nesse
-> caso, o arquivo `README.md` deve ser devidamente modificado para
-> detalhar a nova estrutura e onde cada um dos artefatos produzidos
-> estão localizados.
+> Inclua a lista dos membros da equipe com seus nomes completos.
+
+# Estrutura do Documento
+
+1. [Contexto](1-Contexto.md)
+2. [Especificações do Projeto](2-Especificação.md)
+3. [Projeto da Interface](3-Interface.md)
+4. [Gestão de Configuração](4-Gestão-Configuração.md)
+5. [Gerenciamento de Projeto](5-Gerenciamento-Projeto.md)
+6. [Implementação](6-Implementação.md)
+7. [Testes e Avaliação](7-Testes.md)
+8. [Referências](8-Referências.md)
+9. [Apresentação](9-Apresentação.md)
+
 
 ## docs
 
-Esta pasta arquiva a documentação dos projetos, sendo que o arquivo
-[`Projeto.md`](docs/Projeto.md) deve ser utilizado como documento principal, que concentra
-toda a informação do projeto em questão.
+Esta pasta arquiva a documentação dos projetos.
 
-Este _template_ fornece detalhes de todos os itens  que o arquivo
-`Projeto.MD` deve conter, bem como orientações gerais de como os itens
-podem ser desenvolvidos.
 
 Na pasta `docs`, há uma subpasta `images` que deve arquivar todas as
-imagens utilizadas para a elaboração do documento [`Projeto.md`](docs/Projeto.md).
+imagens utilizadas para a elaboração do documento.
 
-A presentação do projeto, deve ser entregue à parte em formato `pdf` e
-podem devem ser colocada no diretório `docs`.
 
 ## src
 
 Este diretório armazena o código fonte do projeto e adota uma hierarquia
 básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
-JavaScript:
+JavaScript.
 
-- O diretório `assets` é utilizado para armazenar imagens, fontes e
-  outros recursos utilizados no projeto. 
-- O diretório `scripts` armazena os arquivos JavaScripts do projeto
-- O diretório `styles` é utilizado para os arquivos CSS
-- o diretório `vendor` é reservado para incluir bibliotecas e frameworks
-  utilizados no projeto como Bootstrap, jQuery, etc.
+### Links Úteis:
 
-# Orientações Gerais Sobre o Projeto
-
-
-- Aprenda Markdown e Use-o para Documentar o Projeto  ([link
-  1](https://guides.github.com/features/mastering-markdown/) | [link
-2](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)) 
+Aprenda Markdown e Use-o para Documentar o Projeto  ([link  1](https://guides.github.com/features/mastering-markdown/)
+[link 2](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)) 
