@@ -17,7 +17,7 @@ Os membros do grupo são:
 
 # Estrutura do Projeto
 
-1. [Contexto](1-Contexto.md)
+1. [Contexto](./docs/1-Contexto.md)
 2. [Especificações do Projeto](2-Especificação.md)
 3. [Projeto da Interface](3-Interface.md)
 4. [Gestão de Configuração](4-Gestão-Configuração.md)
