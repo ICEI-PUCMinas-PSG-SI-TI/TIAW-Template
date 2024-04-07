@@ -44,5 +44,8 @@ JavaScript.
 
 ### Links Úteis:
 
-Aprenda Markdown e Use-o para Documentar o Projeto  ([link  1](https://guides.github.com/features/mastering-markdown/)
-[link 2](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)) 
+Aprenda Markdown e use-o para documentar o projeto  
+
+> [Sintaxe básica de gravação e formatação no GitHub](https://guides.github.com/features/mastering-markdown/)
+
+> [Suporte Github](https://help.github.com/pt/github/writing-on-github/getting-started-with-writing-and-formatting-on-github)
