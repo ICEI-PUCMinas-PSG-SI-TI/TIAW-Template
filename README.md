@@ -23,11 +23,11 @@ Os membros do grupo são:
 4. [Gestão de Configuração](./docs/4-Gestão-Configuração.md)
 5. [Implementação](./docs/5-Implementação.md)
 6. [Referências](./docs/8-Referências.md)
+7. [Apresentação do trabalho](./docs/apresentacao) 
 
-# Corrigir links e citation.cff
 
 
-## docs
+## Pasta docs
 
 Esta pasta arquiva a documentação dos projetos.
 
@@ -36,7 +36,7 @@ Na pasta `docs`, há uma subpasta `images` que deve arquivar todas as
 imagens utilizadas para a elaboração do documento.
 
 
-## src
+## Pasta src
 
 Este diretório armazena o código fonte do projeto e adota uma hierarquia
 básica de projetos Web simples, que utilizam as tecnologias HTML, CSS e
