@@ -4,20 +4,19 @@
 
 ## Divisão de Papéis
 
-> Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina.
+> Apresente a divisão de papéis entre os membros do grupo em cada sprint. O desejável é que, em cada sprint, o aluno assuma papéis diferentes na disciplina. Siga o modelo do exemplo abaixo:
 
 ### Sprint 1
->- Scrum master: AlunaX
->- Protótipos: AlunoY
->- Testes: AlunoK
->- Documentação: AlunaZ
+- _Scrum master_: AlunaX
+- Protótipos: AlunoY
+- Testes: AlunoK
+- Documentação: AlunaZ
 
 ### Sprint 2
->- Scrum master: AlunaY
->- Desenvolvedor front-end: AlunoX
->- Desenvolvedor back-end: AlunoK
->- Testes: AlunaZ
-
+- _Scrum master_: AlunaY
+- Desenvolvedor _front-end_: AlunoX
+- Desenvolvedor _back-end_: AlunoK
+- Testes: AlunaZ
 
 ## Quadro de tarefas
 
@@ -37,6 +36,17 @@ Legenda:
 - 📝: em execução
 - ⌛: atrasado
 - ❌: não iniciado
+
+## Ferramentas
+
+> Liste quais ferramentas foram empregadas no desenvolvimento do  projeto, justificando a escolha de cada uma delas. Use o formato abaixo como exemplo.
+
+As ferramentas empregadas no projeto são:
+
+- Editor de código.
+- Ferramentas de diagramação.
+- Frameworks 
+- Outras ferramentas externas
 
 
 ## Links Úteis
