@@ -22,8 +22,8 @@ Os membros do grupo são:
 3. [Projeto da Interface](./docs/3-Interface.md)
 4. [Gerenciamento do Projeto](./docs/4-Gerenciamento-Projeto.md)
 5. [Implementação](./docs/5-Implementação.md)
-6. [Referências](./docs/8-Referências.md)
-7. [Apresentação do trabalho](./docs/apresentacao) 
+6. [Referências](./docs/6-Referências.md)
+7. [Apresentação do trabalho](./apresentacao) 
 
 
 
