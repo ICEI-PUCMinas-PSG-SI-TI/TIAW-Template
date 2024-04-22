@@ -19,8 +19,16 @@
 
 ## Arquitetura da solução
 
+
+......  COLOQUE AQUI O SEU TEXTO E O DIAGRAMA DE ARQUITETURA .......
+
 > Inclua um diagrama da solução e descreva os módulos e as tecnologias
 > que fazem parte da solução. Discorra sobre o diagrama.
+> 
+> **Exemplo do diagrama de Arquitetura**:
+> 
+> ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
 que o usuário entra na plataforma, ele é apresentado à tela inicial
