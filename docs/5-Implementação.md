@@ -27,7 +27,7 @@
  
  **Exemplo do diagrama de Arquitetura**:
  
- ![Exemplo de Arquitetura](images/arquitetura-exemplo.png)
+ ![Exemplo de Arquitetura](./images/arquitetura-exemplo.png)
 
 
 A imagem a seguir ilustra a o fluxo do usuário em nossa solução. Assim
